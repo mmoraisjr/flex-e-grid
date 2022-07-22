@@ -5,8 +5,6 @@ Passando aqui para deixar registrado mais um projeto desenvolvido a partir de co
 Projeto feito com base no curso "Dispondo elementos com Flexbox e Grid", ministrado pelo Matheus Alberto Marcus.
 A página Home foi desenvolvida juntamente com o professor, já as demais foram feitas individualmente com base no projeto no figma.
 
-Tecnologias utilizadas: HTML5, CSS3, Js.
-
-Link do repositório: https://lnkd.in/dbuqfHSd
+Tecnologias utilizadas: HTML5, CSS3, JS.
 
 #css #html #js #alura #frontend #grid #desenvolvedor
